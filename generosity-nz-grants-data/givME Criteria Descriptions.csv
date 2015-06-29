@@ -1,0 +1,815 @@
+CRIT_CODE,GRP,DESC1,DESC2,groupDescription
+1,S, National,SPARCloc,SPARC
+10,S,Christchurch,SPARCloc,SPARC
+11,S,Clutha,SPARCloc,SPARC
+12,S,Dunedin,SPARCloc,SPARC
+13,S,Far North District,SPARCloc,SPARC
+14,S,Franklin,SPARCloc,SPARC
+15,S,Gisborne,SPARCloc,SPARC
+16,S,Gore,SPARCloc,SPARC
+17,S,Grey,SPARCloc,SPARC
+18,S,Hamilton,SPARCloc,SPARC
+19,S,Hastings,SPARCloc,SPARC
+2,S,Ashburton,SPARCloc,SPARC
+20,S,Hauraki,SPARCloc,SPARC
+21,S,Horowhenua,SPARCloc,SPARC
+22,S,Hurunui,SPARCloc,SPARC
+23,S,Invercargill,SPARCloc,SPARC
+24,S,Kaikoura,SPARCloc,SPARC
+25,S,Kaipara,SPARCloc,SPARC
+26,S,Kāpiti,SPARCloc,SPARC
+27,S,Kawerau,SPARCloc,SPARC
+28,S,Hutt City,SPARCloc,SPARC
+29,S,Manawatu,SPARCloc,SPARC
+3,S,Auckland,SPARCloc,SPARC
+30,S,Manukau,SPARCloc,SPARC
+31,S,Marlborough,SPARCloc,SPARC
+32,S,Masterton,SPARCloc,SPARC
+33,S,Matamata-Piako,SPARCloc,SPARC
+34,S,MacKenzie,SPARCloc,SPARC
+35,S,Napier,SPARCloc,SPARC
+36,S,Nelson,SPARCloc,SPARC
+37,S,New Plymouth,SPARCloc,SPARC
+38,S,North Shore,SPARCloc,SPARC
+39,S,Opotiki,SPARCloc,SPARC
+4,S,Bay of Plenty,SPARCloc,SPARC
+40,S,Otorohanga,SPARCloc,SPARC
+41,S,Palmerston North,SPARCloc,SPARC
+42,S,Papakura,SPARCloc,SPARC
+43,S,Porirua,SPARCloc,SPARC
+44,S,Queenstown Lakes,SPARCloc,SPARC
+45,S,Rangitikei,SPARCloc,SPARC
+46,S,Rodney,SPARCloc,SPARC
+47,S,Rotorua,SPARCloc,SPARC
+48,S,Ruapēhu,SPARCloc,SPARC
+49,S,Selwyn,SPARCloc,SPARC
+5,S,Buller,SPARCloc,SPARC
+50,S,South Taranaki,SPARCloc,SPARC
+51,S,South Waikato,SPARCloc,SPARC
+52,S,South Wairarapa,SPARCloc,SPARC
+53,S,Southland,SPARCloc,SPARC
+54,S,Stratford,SPARCloc,SPARC
+55,S,Tararua,SPARCloc,SPARC
+56,S,Tasman,SPARCloc,SPARC
+57,S,Taupō,SPARCloc,SPARC
+58,S,Tauranga,SPARCloc,SPARC
+59,S,Thames-Coromandel,SPARCloc,SPARC
+6,S,Carterton,SPARCloc,SPARC
+60,S,Timaru,SPARCloc,SPARC
+61,S,Upper Hutt,SPARCloc,SPARC
+6100,S,Any applicant type,SPARCStat,SPARC
+6101,S,School,SPARCStat,SPARC
+6102,S,Individual,SPARCStat,SPARC
+6104,S,Local authority,SPARCStat,SPARC
+6105,S,Commercial organisation,SPARCStat,SPARC
+6106,S,Sports team,SPARCStat,SPARC
+6107,S,Club,SPARCStat,SPARC
+6108,S,Local/regional/national sports body,SPARCStat,SPARC
+6109,S,Regional sports trust,SPARCStat,SPARC
+6110,S,Outdoor recreation/adventure group,SPARCStat,SPARC
+6111,S,Not-for-profit organisation,SPARCStat,SPARC
+6112,S,Community group,SPARCStat,SPARC
+6113,S,Cultural group,SPARCStat,SPARC
+6114,S,Early education centres,SPARCStat,SPARC
+62,S,Waikato,SPARCloc,SPARC
+63,S,Waimakariri,SPARCloc,SPARC
+64,S,Waimate,SPARCloc,SPARC
+65,S,Waipā,SPARCloc,SPARC
+66,S,Wairoa,SPARCloc,SPARC
+6600,S,Any level of funding,SPARCFund,SPARC
+6601,S,"up to $1,000",SPARCFund,SPARC
+6602,S,"$1,000-$5,000",SPARCFund,SPARC
+6603,S,"$5,000-$15,000",SPARCFund,SPARC
+6604,S,"$15,000-$50,000",SPARCFund,SPARC
+6605,S,"$50,000-$100,000",SPARCFund,SPARC
+6606,S,"over $100,000",SPARCFund,SPARC
+6607,S,funding in kind only,SPARCFund,SPARC
+67,S,Waitakere,SPARCloc,SPARC
+68,S,Waitaki,SPARCloc,SPARC
+69,S,Waitomo,SPARCloc,SPARC
+7,S,Central Hawkes Bay,SPARCloc,SPARC
+70,S,Wanganui,SPARCloc,SPARC
+71,S,Wellington,SPARCloc,SPARC
+7100,S,Any cost/activity,SPARCAct,SPARC
+7101,S,Equipment,SPARCAct,SPARC
+7102,S,Training/Study,SPARCAct,SPARC
+7103,S,Administration,SPARCAct,SPARC
+7104,S,Travel,SPARCAct,SPARC
+7105,S,Accommodation,SPARCAct,SPARC
+7106,S,Uniforms,SPARCAct,SPARC
+7107,S,Venues,SPARCAct,SPARC
+7108,S,Promotion,SPARCAct,SPARC
+7109,S,Staging events,SPARCAct,SPARC
+7110,S,Research,SPARCAct,SPARC
+7111,S,Fees,SPARCAct,SPARC
+7112,S,Publications,SPARCAct,SPARC
+72,S,Western Bay of Plenty,SPARCloc,SPARC
+73,S,Westland,SPARCloc,SPARC
+74,S,Whakatāne,SPARCloc,SPARC
+75,S,Whangarei,SPARCloc,SPARC
+8,S,Central Otago,SPARCloc,SPARC
+8100,S,Any sport or physical recreation,SPARCFoc,SPARC
+8101,S,Outdoor recreation,SPARCFoc,SPARC
+8102,S,Community recreation,SPARCFoc,SPARC
+8104,S,National sport,SPARCFoc,SPARC
+8105,S,Regional sport,SPARCFoc,SPARC
+8106,S,Club sport,SPARCFoc,SPARC
+8107,S,Study for sport/recreation,SPARCFoc,SPARC
+9,S,Chatham Islands,SPARCloc,SPARC
+B000000,B, Any fields of study,,Subject
+B01,B,Māori,,Subject
+B0101,B,Te Reo Me Tikanga Māori,,Subject
+B02,B,Commerce/Management/Business,,Subject
+B0201,B,Management Science,,Subject
+B020102,B,Public Sector Management,,Subject
+B020103,B,Human Resources,,Subject
+B0202,B,Business Studies,,Subject
+B020201,B,Secretarial/Office Systems,,Subject
+B020202,B,Commerce,,Subject
+B020302,B,Marketing / Public Relations / Sales,,Subject
+B020303,B,Property Management/Real Estate,,Subject
+B020304,B,Valuation,,Subject
+B020305,B,Property,,Subject
+B0204,B,Finance,,Subject
+B020401,B,Accounting,,Subject
+B020403,B,Insurance,,Subject
+B0205,B,Economics,,Subject
+B03,B,Health,,Subject
+B030001,B,Māori Health,,Subject
+B030002,B,Pacific Island Health,,Subject
+B030003,B,Public Health,,Subject
+B030004,B,Biomedicine,,Subject
+B0301,B,Medicine,,Subject
+B030103,B,Psychiatry,,Subject
+B0302,B,Nursing,,Subject
+B030202,B,Midwifery,,Subject
+B0303,B,Health Sciences,,Subject
+B030300,B,Opthalmology/Optometry,,Subject
+B030301,B,Pharmacy,,Subject
+B030302,B,Physiotherapy,,Subject
+B030303,B,Occupational Therapy,,Subject
+B030304,B,Radiography,,Subject
+B030306,B,Chiropractice,,Subject
+B030307,B,Speech Therapy,,Subject
+B030308,B,Nutrition and Dietetics,,Subject
+B030309,B,Podiatry,,Subject
+B030310,B,Anaesthesiology,,Subject
+B0304,B,Dentistry,,Subject
+B030700,B,Clinical Research,,Subject
+B039902,B,Occupational Safety and Health,,Subject
+B039903,B,Alternative Therapies,,Subject
+B04,B,Education,,Subject
+B0401,B,School Teacher Education,,Subject
+B040101,B,Early Childhood Education,,Subject
+B040102,B,Primary School Teaching,,Subject
+B040103,B,Secondary School Teaching,,Subject
+B040104,B,Tertiary Teaching,,Subject
+B040201,B,Teaching English as a Second Language,,Subject
+B040202,B,Special Education,,Subject
+B040203,B,Physical Education and Fitness Teach.,,Subject
+B05,B,"Social Sciences, Humanities & Arts",,Subject
+B0501,B,Social Work,,Subject
+B050101,B,Psychology,,Subject
+B050102,B,Sociology,,Subject
+B050103,B,Politics,,Subject
+B050104,B,History,,Subject
+B050105,B,Geography,,Subject
+B050106,B,Womens Studies,,Subject
+B050107,B,Anthropology,,Subject
+B050108,B,Samoan Studies,,Subject
+B0502,B,Library and Information Services,,Subject
+B0503,B,English,,Subject
+B050301,B,Literature Studies,,Subject
+B050302,B,Languages,,Subject
+B050303,B,Classical Studies,,Subject
+B050304,B,Creative Writing,,Subject
+B050401,B,Religion and Theology,,Subject
+B050402,B,Philosophy,,Subject
+B050403,B,Archaeology,,Subject
+B0505,B,Economics,,Subject
+B0506,B,International Studies,,Subject
+B0507,B,Linguistics,,Subject
+B06,B,Sciences and Mathematics,,Subject
+B060100,B,Earth Sciences/Geophysics,,Subject
+B060101,B,Biological Science,,Subject
+B060102,B,Environmental Science,,Subject
+B060103,B,Soil Science,,Subject
+B060104,B,Ecology,,Subject
+B060200,B,Geology,,Subject
+B060201,B,Physics,,Subject
+B060202,B,Chemistry,,Subject
+B060204,B,Astronomy,,Subject
+B0603,B,Mathematics and Statistics,,Subject
+B0604,B,Marine Studies,,Subject
+B0605,B,Nutrition,,Subject
+B0606,B,Opthalmology/Optometry,,Subject
+B069901,B,Food Science,,Subject
+B069902,B,Laboratory Technology,,Subject
+B07,B,Engineering and Technology,,Subject
+B0701,B,Civil Engineering,,Subject
+B0702,B,Electrical and Electronic Engineering,,Subject
+B070204,B,Heating/Ventilation/Air Conditioning,,Subject
+B070205,B,Telecommunications,,Subject
+B0703,B,Mechanical Engineering,,Subject
+B070401,B,Materials Engineering,,Subject
+B070402,B,Mining Engineering,,Subject
+B079901,B,Chemical Engineering,,Subject
+B079902,B,Aeronautical Engineering,,Subject
+B079903,B,Production Engineering,,Subject
+B079904,B,Marine Engineering,,Subject
+B079905,B,Automotive Engineering,,Subject
+B08,B,"Architecture, Planning & Construction",,Subject
+B080101,B,Architecture,,Subject
+B080102,B,Interior Design,,Subject
+B0802,B,Building Construction/Carpentry,,Subject
+B0803,B,Urban and Regional Planning,,Subject
+B0804,B,Surveying and Cartography,,Subject
+B089902,B,Quantity Surveying,,Subject
+B09,B,"Agriculture, Forestry & Fisheries",,Subject
+B0901,B,Agriculture,,Subject
+B0902,B,Horticulture,,Subject
+B0903,B,Forestry,,Subject
+B0904,B,Fisheries,,Subject
+B0906,B,Viticulture,,Subject
+B0907,B,Apiculture,,Subject
+B10,B,Computing and Information Technology,,Subject
+B100102,B,Computer Science,,Subject
+B100103,B,Information Management,,Subject
+B11,B,Manufacturing,,Subject
+B1105,B,Wool Processing,,Subject
+B1106,B,Dairy Manufacturing,,Subject
+B1107,B,Meat Processing,,Subject
+B12,B,Music & Fine Arts,,Subject
+B1201,B,Visual and Performing Arts,,Subject
+B120100,B,Performance Music,,Subject
+B120101,B,Music,,Subject
+B120102,B,Fine Art & Art History,,Subject
+B120103,B,Photography,,Subject
+B120104,B,Design,,Subject
+B120105,B,"Film, television",,Subject
+B120106,B,Performing Arts,,Subject
+B120107,B,Indigenous Arts & Crafts,,Subject
+B120108,B,Clothing and Textiles,,Subject
+B120109,B,Sculpture,,Subject
+B120110,B,Crafts,,Subject
+B120111,B,Fashion,,Subject
+B13,B,Law & Law Enforcement,,Subject
+B1301,B,Law,,Subject
+B14,B,"Journalism, Media, Communication",,Subject
+B1401,B,Communication,,Subject
+B1402,B,Journalism,,Subject
+B1403,B,Film and Electronic Media,,Subject
+B1404,B,Broadcasting,,Subject
+B15,B,"Sport, Recreation, Tourism, Hospitality",,Subject
+B1500,B,Sport,,Subject
+B1501,B,Recreation,,Subject
+B1502,B,Hospitality Services,,Subject
+B150202,B,Tourism,,Subject
+B16,B,Transport,,Subject
+B1601,B,Shipping and Seamanship,,Subject
+B1602,B,Aviation,,Subject
+B1603,B,Road and Rail Transport,,Subject
+B17,B,Veterinary Studies,,Subject
+D000000,D, Any type of funding,non-academic,Type of Funding
+D000048,D,primary school,school,Type of Funding
+D000049,D,secondary school,school,Type of Funding
+D000050,D,primary or secondary school,school,Type of Funding
+D000051,D,undergraduate/other tertiary all yrs,academic,Type of Funding
+D000052,D,graduate or postgraduate study,academic,Type of Funding
+D000053,D,research,academic,Type of Funding
+D000054,D,travel,non-academic,Type of Funding
+D000055,D,professional development/training,non-academic,Type of Funding
+D000056,D,undergraduate (first year only),academic,Type of Funding
+D000058,D,"sport, recreation, Outward Bound",non-academic,Type of Funding
+D000059,D,"arts, culture etc",non-academic,Type of Funding
+D000060,D,grants/loans,non-academic,Type of Funding
+D000061,D,fellowship,academic,Type of Funding
+D000062,D,Residency,non-academic,Type of Funding
+D000063,D,Doctoral,academic,Type of Funding
+F000000,F, Any organisation,not specified,Institution
+F1,F,Any New Zealand institution,Any NZ inst incl schools,Institution
+F2,F,Any New Zealand university,Any NZ university,Institution
+F207001,F,The University of Auckland,Auckland,Institution
+F207002,F,The University of Waikato,Waikato,Institution
+F207003,F,Massey University,Massey,Institution
+F207004,F,Victoria University of Wellington,VUW,Institution
+F207005,F,University of Canterbury,Canterbury,Institution
+F207006,F,Lincoln University,Lincoln,Institution
+F207007,F,University of Otago,Otago,Institution
+F207008,F,Auckland University of Technology,AUT,Institution
+F208630,F,Te Wānanga o Aotearoa,Te Wananga o Aotearoa,Institution
+F209241,F,Te Wānanga o Raukawa,Te Wananga o Raukawa,Institution
+F209386,F,Te Whare Wānanga o Awanuiārangi,Te Whare Wananga o Awanuiarangi,Institution
+F299001,F,New Zealand School of Music,School of Music,Institution
+F3,F,Any New Zealand polytechnic,Any NZ poly,Institution
+F306001,F,Aoraki Polytechnic,Specific NZ polys,Institution
+F306003,F,Bay of Plenty Polytechnic,Specific NZ polys,Institution
+F306004,F,UNITEC,Specific NZ polys,Institution
+F306006,F,Christchurch Polytech Inst of Tech,Specific NZ polys,Institution
+F306007,F,Eastern Institute of Technology,Specific NZ polys,Institution
+F306008,F,Wellington Institute of Technology,Specific NZ polys,Institution
+F306009,F,Universal College of Learning (UCOL),Specific NZ polys,Institution
+F306010,F,Manukau Institute of Technology,Specific NZ polys,Institution
+F306011,F,Nelson Marlborough Institute of Tech,Specific NZ polys,Institution
+F306012,F,Northland Polytechnic,Specific NZ polys,Institution
+F306013,F,Otago Polytechnic,Specific NZ polys,Institution
+F306014,F,Whitireia Community Polytechnic,Specific NZ polys,Institution
+F306015,F,Southern Institute of Technology,Specific NZ polys,Institution
+F306017,F,Western Institute of Tech. Taranaki,Specific NZ polys,Institution
+F306018,F,Waiariki Institute of Technology,Specific NZ polys,Institution
+F306019,F,Waikato Institute of Technology,Specific NZ polys,Institution
+F306022,F,Open Polytechnic of NZ,Specific NZ polys,Institution
+F306024,F,Tai Poutini Polytechnic,Specific NZ polys,Institution
+F308505,F,Telford Rural Polytechnic,Specific NZ polys,Institution
+F4-9013,F,NZ Motor Industry Training Org. (Inc),Industry Training Organisation,Institution
+F407389,F,Raffles Design Institute,Other NZ Institution,Institution
+F407647,F,New Zealand School of Education,Other NZ Institution,Institution
+F407694,F,Queenstown Resort College,Other NZ Institution,Institution
+F408277,F,International Travel College of New Zealand,Other NZ Institution,Institution
+F408441,F,Quantum Education Group Limited,Other NZ Institution,Institution
+F408457,F,Pacific International Hotel Managemen,Other NZ Institution,Institution
+F408458,F,Yoobee School of Design,Other NZ Institution,Institution
+F408488,F,Computer Power Institute,Other NZ Institution,Institution
+F408502,F,Toi Whakaari: NZ Drama School,Other NZ Institution,Institution
+F408504,F,Taratahi Agriculture Training Centre,Other NZ institution,Institution
+F408530,F,Auckland Institute of Studies,Other NZ Institution,Institution
+F408550,F,International Pacific College,Other NZ institution,Institution
+F408644,F,Crown Institute of Studies,Other NZ Institution,Institution
+F408656,F,Design & Arts College of New Zealand,Other NZ Institution,Institution
+F408694,F,Bethlehem Tertiary Institute,Other NZ Institution,Institution
+F409247,F,Westport Deep Sea Fishing School,Other NZ institution,Institution
+F409402,F,Outward Bound,Other NZ Institution,Institution
+F409410,F,The Learning Connexion,Other NZ Institution,Institution
+F409872,F,BEST Pacific Institute of Education,Other NZ Institution,Institution
+F499002,F,Henley Management College,Other NZ institution,Institution
+H2,H, Outside NZ,,Country of Study
+H201,H,Australia,,Country of Study
+H202,H,Britain,,Country of Study
+H203,H,USA,,Country of Study
+H204,H,Continental Europe,,Country of Study
+H205,H,South Pacific,,Country of Study
+H206,H,China,,Country of Study
+H207,H,Japan,,Country of Study
+H208,H,South East Asia,,Country of Study
+H209,H,Canada,,Country of Study
+H210,H,Middle East,,Country of Study
+H211,H,South America,,Country of Study
+H212,H,Central America,,Country of Study
+H213,H,Sri Lanka,,Country of Study
+H214,H,Hong Kong,,Country of Study
+H215,H,Germany,,Country of Study
+H216,H,Taiwan (Province of China),,Country of Study
+H217,H,Singapore,,Country of Study
+J1,J,awards specifically for men,,Gender
+J2,J,awards specifically for women,,Gender
+J800000,J, not applicable,,Gender
+K000051,K,Māori,,Ethnicity
+K800000,K, not applicable,,Ethnicity
+K800002,K,Pacific Islander,,Ethnicity
+K800003,K,Thai,,Ethnicity
+K800004,K,Korean,,Ethnicity
+K800005,K,Japanese,,Ethnicity
+K800006,K,Taiwanese,,Ethnicity
+K800007,K,Malaysian,,Ethnicity
+K800008,K,Singaporean,,Ethnicity
+K800009,K,Hong Kong,,Ethnicity
+K800010,K,Polish,,Ethnicity
+K800011,K,Australian,,Ethnicity
+K800021,K,Niuean,,Ethnicity
+K800022,K,Samoan,,Ethnicity
+K800023,K,Cook Islander,,Ethnicity
+K800024,K,Tokelauan,,Ethnicity
+K800025,K,Tongan,,Ethnicity
+K800026,K,Fijian,,Ethnicity
+K800027,K,Solomon Islander,,Ethnicity
+K800028,K,US Citizen,,Ethnicity
+K800029,K,Chinese,,Ethnicity
+K800030,K,Indian,,Ethnicity
+K800031,K,Indonesian,,Ethnicity
+K800032,K,Vietnamese,,Ethnicity
+K800033,K,Filipino,,Ethnicity
+K800034,K,German,,Ethnicity
+K800035,K,Canadian,,Ethnicity
+K800100,K,Asian,,Ethnicity
+L800000,L, not applicable,,Iwi
+L800001,L,Taranaki,,Iwi
+L800002,L,Aupouri Maori Trust Board,beneficiaries,Iwi
+L800003,L,Mangorewa Kaharoa Te Taumata Trust,owners or descendants of owners,Iwi
+L800004,L,Ngāi Tūhoe,,Iwi
+L800005,L,Ngāti Porou,,Iwi
+L800006,L,Tainui,,Iwi
+L800007,L,Te Arawa,,Iwi
+L800008,L,Tai Tokerau,,Iwi
+L800010,L,Ngāti Raukawa,,Iwi
+L800011,L,Ngāti Toarangatira,,Iwi
+L800012,L,Ngāti Kahungunu ki Wairarapa,,Iwi
+L800013,L,Tūwharetoa,,Iwi
+L800014,L,Ngāi Tahu,,Iwi
+L800015,L,Te Aitanga ā Māhaki,,Iwi
+L800016,L,Waikaremoana,,Iwi
+L800017,L,Whakatōhea,,Iwi
+L800019,L,Ngāti Whātua,,Iwi
+L800020,L,Whanau-a-Apanui,,Iwi
+L800021,L,Ngāti Awa,,Iwi
+L800023,L,Te Ati Awa,,Iwi
+L800024,L,Nga Rauru,,Iwi
+L800025,L,Ngāti Ruanui,,Iwi
+L800026,L,Nga Ruahine,,Iwi
+L800027,L,Ngāti Mutunga,,Iwi
+L800029,L,Ngāti Tama,,Iwi
+L800030,L,Ngāti Maru,,Iwi
+L800032,L,Ngāti Whakaue,,Iwi
+L800033,L,Ngāti Maniapoto,,Iwi
+L800034,L,Te Whaiti nui a Toi Trust,,Iwi
+L800035,L,Tangiharuru Apa Trust,,Iwi
+L800036,L,Ngapuhi,,Iwi
+L800037,L,Te Uri-o-Hau,,Iwi
+L800038,L,Pukaingataru B18 Trust,,Iwi
+L800039,L,Haumingi 1A2 Incorporation,,Iwi
+L800040,L,Kapenga M Trust,,Iwi
+L800041,L,Kokako Trust,,Iwi
+L800042,L,Paehinahina Mourea Trust,,Iwi
+L800043,L,Raharuhi Pururu Trust,,Iwi
+L800044,L,Ngāti Tuara,,Iwi
+L800045,L,Ngāti Kea,,Iwi
+L800046,L,Rangātira E Trust,,Iwi
+L800047,L,Rotoiti 15 Trust,,Iwi
+L800048,L,Ngāti Rangiteaorere,,Iwi
+L800049,L,Te Ngae Farm Trust,,Iwi
+L800050,L,Te Tahuna Trust,,Iwi
+L800052,L,Ngāti Manawa,,Iwi
+L800053,L,Waerenga East & West Incorporation,,Iwi
+L800054,L,Whangamoa Trust,,Iwi
+L800055,L,Rotoma No.1 Incorporation,,Iwi
+L800056,L,Ngāti Koata,,Iwi
+L800058,L,Hauraki Maori Trust,,Iwi
+L800059,L,Ngai Tukairangi Trust,owners or descendants of owners,Iwi
+L800060,L,Ngāti Rangi,,Iwi
+L800061,L,Ngāti Kahu,,Iwi
+L800062,L,Ngāti Ranginui,,Iwi
+L800063,L,Ngāti Pūkenga,,Iwi
+L800064,L,Ngāi Te Rangi,,Iwi
+L800065,L,Morikaunui Incorporation,,Iwi
+L800066,L,Ngāti Kahungunu ki Heretaunga,,Iwi
+L800067,L,Ngāti Kahungunu ki Wairoa,,Iwi
+L800068,L,Ngāti Kuia,,Iwi
+L800069,L,Ngāti Pāoa,,Iwi
+L800070,L,Ngāti Rārua,,Iwi
+L800071,L,Ngāti Tai,,Iwi
+L800072,L,Ngāti Tamatera,,Iwi
+L800073,L,Ngāti Whanaunga,,Iwi
+L800074,L,Ngāti Whare,,Iwi
+L800075,L,Rangitāne,,Iwi
+L800076,L,Te Aupouri,,Iwi
+L800077,L,Te Rarawa,,Iwi
+L800078,L,Te Ati Hau Trust,,Iwi
+L800079,L,Ngāti Rangiwewehi,,Iwi
+L800080,L,Waipapa Trust,,Iwi
+L800081,L,Te Atihaunui a Pāpārangi,,Iwi
+L800082,L,Tuaropaki Trust,,Iwi
+L800083,L,Paraninihi ki Waitotara Incorporation,,Iwi
+L800084,L,Parekarangi Trust,,Iwi
+N100000,N, Not applicable,,Nationality
+N100004,N,Afghanistan,,Nationality
+N100008,N,Albania,,Nationality
+N100010,N,Antarctica,,Nationality
+N100012,N,Algeria,,Nationality
+N100016,N,American Samoa,,Nationality
+N100020,N,Andorra,,Nationality
+N100024,N,Angola,,Nationality
+N100028,N,Antigua and Barbuda,,Nationality
+N100031,N,Azerbaijan,,Nationality
+N100032,N,Argentina,,Nationality
+N100036,N,Australia,,Nationality
+N100040,N,Austria,,Nationality
+N100044,N,Bahamas,,Nationality
+N100048,N,Bahrain,,Nationality
+N100050,N,Bangladesh,,Nationality
+N100051,N,Armenia,,Nationality
+N100052,N,Barbados,,Nationality
+N100056,N,Belgium,,Nationality
+N100060,N,Bermuda,,Nationality
+N100064,N,Bhutan,,Nationality
+N100068,N,Bolivia (Plurinational State of),,Nationality
+N100070,N,Bosnia and Herzegovina,,Nationality
+N100072,N,Botswana,,Nationality
+N100074,N,Bouvet Island,,Nationality
+N100076,N,Brazil,,Nationality
+N100084,N,Belize,,Nationality
+N100086,N,British Indian Ocean Territory,,Nationality
+N100090,N,Solomon Islands,,Nationality
+N100092,N,Virgin Islands (British),,Nationality
+N100096,N,Brunei Darussalam,,Nationality
+N100100,N,Bulgaria,,Nationality
+N100104,N,Myanmar,,Nationality
+N100108,N,Burundi,,Nationality
+N100112,N,Belarus,,Nationality
+N100116,N,Cambodia,,Nationality
+N100120,N,Cameroon,,Nationality
+N100124,N,Canada,,Nationality
+N100132,N,Cabo Verde,,Nationality
+N100136,N,Cayman Islands,,Nationality
+N100140,N,Central African Republic,,Nationality
+N100144,N,Sri Lanka,,Nationality
+N100148,N,Chad,,Nationality
+N100152,N,Chile,,Nationality
+N100156,N,China,,Nationality
+N100158,N,Taiwan (Province of China),,Nationality
+N100162,N,Christmas Island,,Nationality
+N100166,N,Cocos (Keeling) Islands,,Nationality
+N100170,N,Colombia,,Nationality
+N100174,N,Comoros,,Nationality
+N100175,N,Mayotte,,Nationality
+N100178,N,Congo,,Nationality
+N100180,N,Congo (Democratic Republic of the),,Nationality
+N100184,N,Cook Islands,,Nationality
+N100188,N,Costa Rica,,Nationality
+N100191,N,Croatia,,Nationality
+N100192,N,Cuba,,Nationality
+N100196,N,Cyprus,,Nationality
+N100203,N,Czech Republic,,Nationality
+N100204,N,Benin,,Nationality
+N100208,N,Denmark,,Nationality
+N100212,N,Dominica,,Nationality
+N100214,N,Dominican Republic,,Nationality
+N100218,N,Ecuador,,Nationality
+N100222,N,El Salvador,,Nationality
+N100226,N,Equatorial Guinea,,Nationality
+N100231,N,Ethiopia,,Nationality
+N100232,N,Eritrea,,Nationality
+N100233,N,Estonia,,Nationality
+N100234,N,Faroe Islands,,Nationality
+N100238,N,Falkland Islands [Malvinas],,Nationality
+N100239,N,South Georgia and the South Sandwich Islands,,Nationality
+N100242,N,Fiji,,Nationality
+N100246,N,Finland,,Nationality
+N100248,N,Åland Islands,,Nationality
+N100250,N,France,,Nationality
+N100254,N,French Guiana,,Nationality
+N100258,N,French Polynesia,,Nationality
+N100260,N,French Southern Territories,,Nationality
+N100262,N,Djibouti,,Nationality
+N100266,N,Gabon,,Nationality
+N100268,N,Georgia,,Nationality
+N100270,N,Gambia,,Nationality
+N100275,N,"Palestine, State of",,Nationality
+N100276,N,Germany,,Nationality
+N100288,N,Ghana,,Nationality
+N100292,N,Gibraltar,,Nationality
+N100296,N,Kiribati,,Nationality
+N100300,N,Greece,,Nationality
+N100304,N,Greenland,,Nationality
+N100308,N,Grenada,,Nationality
+N100312,N,Guadeloupe,,Nationality
+N100316,N,Guam,,Nationality
+N100320,N,Guatemala,,Nationality
+N100324,N,Guinea,,Nationality
+N100328,N,Guyana,,Nationality
+N100332,N,Haiti,,Nationality
+N100334,N,Heard Island and McDonald Islands,,Nationality
+N100336,N,Holy See,,Nationality
+N100340,N,Honduras,,Nationality
+N100344,N,Hong Kong,,Nationality
+N100348,N,Hungary,,Nationality
+N100352,N,Iceland,,Nationality
+N100356,N,India,,Nationality
+N100360,N,Indonesia,,Nationality
+N100364,N,Iran (Islamic Republic of),,Nationality
+N100368,N,Iraq,,Nationality
+N100372,N,Ireland,,Nationality
+N100376,N,Israel,,Nationality
+N100380,N,Italy,,Nationality
+N100384,N,Côte d'Ivoire,,Nationality
+N100388,N,Jamaica,,Nationality
+N100392,N,Japan,,Nationality
+N100398,N,Kazakhstan,,Nationality
+N100400,N,Jordan,,Nationality
+N100404,N,Kenya,,Nationality
+N100408,N,Korea (Democratic People's Republic of),,Nationality
+N100410,N,Korea (Republic of),,Nationality
+N100414,N,Kuwait,,Nationality
+N100417,N,Kyrgyzstan,,Nationality
+N100418,N,Lao People's Democratic Republic,,Nationality
+N100422,N,Lebanon,,Nationality
+N100426,N,Lesotho,,Nationality
+N100428,N,Latvia,,Nationality
+N100430,N,Liberia,,Nationality
+N100434,N,Libya,,Nationality
+N100438,N,Liechtenstein,,Nationality
+N100440,N,Lithuania,,Nationality
+N100442,N,Luxembourg,,Nationality
+N100446,N,Macao,,Nationality
+N100450,N,Madagascar,,Nationality
+N100454,N,Malawi,,Nationality
+N100458,N,Malaysia,,Nationality
+N100462,N,Maldives,,Nationality
+N100466,N,Mali,,Nationality
+N100470,N,Malta,,Nationality
+N100474,N,Martinique,,Nationality
+N100478,N,Mauritania,,Nationality
+N100480,N,Mauritius,,Nationality
+N100484,N,Mexico,,Nationality
+N100492,N,Monaco,,Nationality
+N100496,N,Mongolia,,Nationality
+N100498,N,Moldova (Republic of),,Nationality
+N100499,N,Montenegro,,Nationality
+N100500,N,Montserrat,,Nationality
+N100504,N,Morocco,,Nationality
+N100508,N,Mozambique,,Nationality
+N100512,N,Oman,,Nationality
+N100516,N,Namibia,,Nationality
+N100520,N,Nauru,,Nationality
+N100524,N,Nepal,,Nationality
+N100528,N,Netherlands,,Nationality
+N100531,N,Curaçao,,Nationality
+N100533,N,Aruba,,Nationality
+N100534,N,Sint Maarten (Dutch part),,Nationality
+N100535,N,"Bonaire, Sint Eustatius and Saba",,Nationality
+N100540,N,New Caledonia,,Nationality
+N100548,N,Vanuatu,,Nationality
+N100554,N,New Zealand,,Nationality
+N100558,N,Nicaragua,,Nationality
+N100562,N,Niger,,Nationality
+N100566,N,Nigeria,,Nationality
+N100570,N,Niue,,Nationality
+N100574,N,Norfolk Island,,Nationality
+N100578,N,Norway,,Nationality
+N100580,N,Northern Mariana Islands,,Nationality
+N100581,N,United States Minor Outlying Islands,,Nationality
+N100583,N,Micronesia (Federated States of),,Nationality
+N100584,N,Marshall Islands,,Nationality
+N100585,N,Palau,,Nationality
+N100586,N,Pakistan,,Nationality
+N100591,N,Panama,,Nationality
+N100598,N,Papua New Guinea,,Nationality
+N100600,N,Paraguay,,Nationality
+N100604,N,Peru,,Nationality
+N100608,N,Philippines,,Nationality
+N100612,N,Pitcairn,,Nationality
+N100616,N,Poland,,Nationality
+N100620,N,Portugal,,Nationality
+N100624,N,Guinea-Bissau,,Nationality
+N100626,N,Timor-Leste,,Nationality
+N100630,N,Puerto Rico,,Nationality
+N100634,N,Qatar,,Nationality
+N100638,N,Réunion,,Nationality
+N100642,N,Romania,,Nationality
+N100643,N,Russian Federation,,Nationality
+N100646,N,Rwanda,,Nationality
+N100652,N,Saint Barthélemy,,Nationality
+N100654,N,"Saint Helena, Ascension and Tristan da Cunha",,Nationality
+N100659,N,Saint Kitts and Nevis,,Nationality
+N100660,N,Anguilla,,Nationality
+N100662,N,Saint Lucia,,Nationality
+N100663,N,Saint Martin (French part),,Nationality
+N100666,N,Saint Pierre and Miquelon,,Nationality
+N100670,N,Saint Vincent and the Grenadines,,Nationality
+N100674,N,San Marino,,Nationality
+N100678,N,Sao Tome and Principe,,Nationality
+N100682,N,Saudi Arabia,,Nationality
+N100686,N,Senegal,,Nationality
+N100688,N,Serbia,,Nationality
+N100690,N,Seychelles,,Nationality
+N100694,N,Sierra Leone,,Nationality
+N100702,N,Singapore,,Nationality
+N100703,N,Slovakia,,Nationality
+N100704,N,Viet Nam,,Nationality
+N100705,N,Slovenia,,Nationality
+N100706,N,Somalia,,Nationality
+N100710,N,South Africa,,Nationality
+N100716,N,Zimbabwe,,Nationality
+N100724,N,Spain,,Nationality
+N100728,N,South Sudan,,Nationality
+N100729,N,Sudan,,Nationality
+N100732,N,Western Sahara,,Nationality
+N100740,N,Suriname,,Nationality
+N100744,N,Svalbard and Jan Mayen,,Nationality
+N100748,N,Swaziland,,Nationality
+N100752,N,Sweden,,Nationality
+N100756,N,Switzerland,,Nationality
+N100760,N,Syrian Arab Republic,,Nationality
+N100762,N,Tajikistan,,Nationality
+N100764,N,Thailand,,Nationality
+N100768,N,Togo,,Nationality
+N100772,N,Tokelau,,Nationality
+N100776,N,Tonga,,Nationality
+N100780,N,Trinidad and Tobago,,Nationality
+N100784,N,United Arab Emirates,,Nationality
+N100788,N,Tunisia,,Nationality
+N100792,N,Turkey,,Nationality
+N100795,N,Turkmenistan,,Nationality
+N100796,N,Turks and Caicos Islands,,Nationality
+N100798,N,Tuvalu,,Nationality
+N100800,N,Uganda,,Nationality
+N100804,N,Ukraine,,Nationality
+N100807,N,Macedonia (former Yugoslav Republic of),,Nationality
+N100818,N,Egypt,,Nationality
+N100826,N,United Kingdom of Great Britain and Northern,,Nationality
+N100831,N,Guernsey,,Nationality
+N100832,N,Jersey,,Nationality
+N100833,N,Isle of Man,,Nationality
+N100834,N,"Tanzania, United Republic of",,Nationality
+N100840,N,United States of America,,Nationality
+N100850,N,Virgin Islands (U.S.),,Nationality
+N100854,N,Burkina Faso,,Nationality
+N100858,N,Uruguay,,Nationality
+N100860,N,Uzbekistan,,Nationality
+N100862,N,Venezuela (Bolivarian Republic of),,Nationality
+N100876,N,Wallis and Futuna,,Nationality
+N100882,N,Samoa,,Nationality
+N100887,N,Yemen,,Nationality
+N100894,N,Zambia,,Nationality
+O800000,O,Any disability,,Disability
+O800001,O, not applicable,,Disability
+O800003,O,Deaf or hearing impaired,,Disability
+O800004,O,Physical disability,,Disability
+O800005,O,Blind or visually impaired,,Disability
+O800006,O,Intellectually disabled,,Disability
+P000050,P, not applicable,,Ex-pupil
+P000051,P,Otago Boys High School,,Ex-pupil
+P000052,P,Hawera High School,,Ex-pupil
+P000054,P,a Canterbury secondary school,,Ex-pupil
+P000055,P,Marlborough Boys/Girls,Marlborough Girls College,Ex-pupil
+P000056,P,Nelson Boys' College,,Ex-pupil
+P000057,P,Christchurch Boys High,School,Ex-pupil
+P003587,P,West Melton School,,Ex-pupil
+P800007,P,Avondale College,,Ex-pupil
+P800008,P,Kelston Boys/Girls,Girls Colleges,Ex-pupil
+P800009,P,Green Bay College,,Ex-pupil
+P800010,P,Timaru Boys High School,,Ex-pupil
+P800053,P,Auckland Boys Grammar,,Ex-pupil
+P800056,P,Ngata College,,Ex-pupil
+P800057,P,ex-pupil from Auckland Prov District,,Ex-pupil
+P800058,P,Oratia Primary School,,Ex-pupil
+P800059,P,Wanganui High School,,Ex-pupil
+P800060,P,Wairarapa secondary,,Ex-pupil
+P800061,P,Wairoa College,,Ex-pupil
+P800062,P,Palmerston North Boys',,Ex-pupil
+P800063,P,Feilding Agric. High,,Ex-pupil
+P800064,P,Ashburton College,,Ex-pupil
+P800065,P,Cambridge High School,,Ex-pupil
+P800066,P,Solway College,,Ex-pupil
+P800067,P,a Rotorua High School,,Ex-pupil
+P800068,P,Southland Boys' or Girls' High School,,Ex-pupil
+P800069,P,Wellington East Girls' College,,Ex-pupil
+P800070,P,a Tauranaga secondary school,,Ex-pupil
+P800071,P,New Plymouth Boys High School,,Ex-pupil
+P800072,P,Iona College,,Ex-pupil
+P800073,P,Gisborne Girls High School,,Ex-pupil
+P800074,P,Gisborne Boys High,,Ex-pupil
+P800075,P,Campion College,,Ex-pupil
+P800076,P,Lytton High School,,Ex-pupil
+P800077,P,Kristin School,,Ex-pupil
+Q000050,Q, not applicable,,Other
+Q800001,Q,member of pony club - Otago/Southland,Southland,Other
+Q800002,Q,Linked to Alliance Freezing Company,Alliance Freezing Company,Other
+Q800003,Q,family of WDFF members,,Other
+Q800004,Q,Linked to Edendale RSA,members of Edendale RSA,Other
+Q800005,Q,Member of FINZ,,Other
+Q800006,Q,direct descendants of Rev J Laughton,,Other
+Q800009,Q,servicemen or their children,children,Other
+Q800019,Q,Sons or daughters of Royal/Merc Navy,Sons or daughters of Mercantile Navy,Other
+Q800022,Q,Current member of UMSA,,Other
+Q800023,Q,Member of NZIM,,Other
+Q800024,Q,Member of IPENZ,,Other
+Q800025,Q,Child of BlueScope Employee,,Other
+Q800026,Q,NZ Locomotive Engineers Association,,Other
+Q800027,Q,Child of Fletcher Building employee,,Other
+Q800028,Q,Member of NZNO,,Other
+Q800029,Q,Memb of NZ Fed of Women's Insitutes,,Other
+Q800030,Q,Daughters of ordained Ang. Ministers,,Other
+Q800031,Q,Children of RNZEME personnel,,Other
+Q800032,Q,Child of Amcor Ltd employee,,Other
+Q800033,Q,Child of ANZ Banking Grp employees,,Other
+Q800034,Q,Any Child of NZ Post Group Employee,,Other
+Q800035,Q,International students - based outside NZ,,Other
+Q800036,Q,Linked to Manchester Unity,,Other
+Q800037,Q,Member of NZSA (PEN NZ Inc),,Other
+Q800038,Q,Member of Jersey Cattle Breeders Assn,,Other
+Q800039,Q,Paokahu Trust Shareholder or child of,,Other
+Q800040,Q,Mangatū Block Shareholder or child of,,Other
+Q800041,Q,Wakatū Incorporation shareholder,,Other
+Q800042,Q,financial hardship,,Other
+Q800043,Q,Member of Priority One,,Other
+Q800045,Q,International students - based in NZ,,Other
+Q800049,Q,Member Tauranga Chamber of Commerce,,Other
+Q800050,Q,Member of LIANZA,Library & Information Association NZ,Other
+Q800051,Q,Members of NZ Fed for Deaf Children,,Other
+Q800052,Q,Child of a member of the RMTU,Rail & Maritime Transport Union,Other
+R800000,R, not applicable,,Region
+R800005,R,Southland Region,,Region
+R800007,R,Auckland Region,,Region
+R800008,R,Northland Region,,Region
+R800010,R,Nelson/Tasman/Marlborough,Regions,Region
+R800011,R,Canterbury Region,,Region
+R800012,R,Wellington Region,,Region
+R800013,R,Taranaki Region,,Region
+R800014,R,Waikato Region,,Region
+R800015,R,Bay of Plenty Region,,Region
+R800017,R,Otago Region,,Region
+R800018,R,Gisborne/Hawkes Bay Regions,,Region
+R800025,R,Wanganui area,,Region
+R800027,R,Wairarapa area,,Region
+R800029,R,Manawatu area,,Region
+R800034,R,Chatham Islands,,Region
+R800036,R,West Coast Region,,Region

@@ -1,0 +1,1320 @@
+Company ID,description,type
+"1,258",Clothing,activity
+"1,258",Education,keyword
+"1,258",National,region
+"1,258",Retail,activity
+"1,946",Business and Enterprise,keyword
+"1,946",Business Incubation,keyword
+"1,946",Business Services,activity
+"1,946",Education,keyword
+"1,946",Financial Services,activity
+"1,946",Innovation,keyword
+"1,946",Leadership,keyword
+"1,946",National,region
+"1,946",Tertiary Education,keyword
+"1,946",Theatre Companies and Theatres,keyword
+"1,946",Youth,keyword
+"2,236",Auckland,region
+"2,236",Business Services,activity
+"2,236",Christchurch,region
+"2,236",Community Organisations and Charities,keyword
+"2,236",Dunedin,region
+"2,236",Hamilton,region
+"2,236",Information Technology,activity
+"2,236",Wellington,region
+"2,237",Agriculture,activity
+"2,237",Animal Welfare,keyword
+"2,237",Animals,keyword
+"2,237",Arts,keyword
+"2,237",Chemicals and Plastics,activity
+"2,237",Community Development,keyword
+"2,237",Community Organisations and Charities,keyword
+"2,237",Disaster Relief,keyword
+"2,237",Diseases and Conditions,keyword
+"2,237",Diversity And Culture,keyword
+"2,237",Education,keyword
+"2,237",Emergencies,keyword
+"2,237",Environment,keyword
+"2,237",Health,activity
+"2,237",Health,keyword
+"2,237",Medical Research,keyword
+"2,237",National,region
+"2,237",Research,keyword
+"2,333",Art Centres and Galleries,keyword
+"2,333",Arts,keyword
+"2,333",Arts Festivals,keyword
+"2,333",Business and Enterprise,keyword
+"2,333",Business Incubation,keyword
+"2,333",Classical Musicians and Orchestras,keyword
+"2,333",Community Development,keyword
+"2,333",Community Organisations and Charities,keyword
+"2,333",Disability,keyword
+"2,333",Education,keyword
+"2,333",Educational skills development,keyword
+"2,333",Film,keyword
+"2,333",Learning disabilities,keyword
+"2,333",National,region
+"2,333",Rowing,keyword
+"2,333",Rugby Union,keyword
+"2,333",Sport,keyword
+"2,333",Telecommunications,activity
+"2,333",Youth,keyword
+"2,334",,region
+"2,334",Aviation and Airport Operators,activity
+"2,334",Cultural Festivals,keyword
+"2,334",Film,keyword
+"2,334",Photography,keyword
+"2,334",Post and Freight,activity
+"2,334",Running,keyword
+"2,334",Table Tennis,keyword
+"2,334",Transport,activity
+"2,461",Amenities Management and Care,activity
+"2,461",Arts,keyword
+"2,461",Blindness and Visual Impairment,keyword
+"2,461",Deafness and Hearing Impairment,keyword
+"2,461",Digital Divide,keyword
+"2,461",Disability,keyword
+"2,461",Diversity And Culture,keyword
+"2,461",Equal Opportunities,keyword
+"2,461",Extreme Sports,keyword
+"2,461",Fashion,keyword
+"2,461",Film,keyword
+"2,461",ICT,keyword
+"2,461",National,region
+"2,461",Personal Development,keyword
+"2,461",Rock Music,keyword
+"2,461",Rugby League,keyword
+"2,461",Rugby Union,keyword
+"2,461",Sport,keyword
+"2,461",Technology,keyword
+"2,461",Telecommunications,activity
+"2,503",Children and Babies,keyword
+"2,503",Community Development,keyword
+"2,503",Community Organisations and Charities,keyword
+"2,503",Disaster Relief,keyword
+"2,503",Emergencies,keyword
+"2,503",Families,keyword
+"2,503",Funding and Fundraising,keyword
+"2,503",Housing and homelessness,keyword
+"2,503",National,region
+"2,503",Retail,activity
+"2,503",Road Safety,keyword
+"2,503",Rural Communities,keyword
+"2,503",Women,keyword
+"2,742",Arts,keyword
+"2,742",Arts Festivals,keyword
+"2,742",Community Organisations and Charities,keyword
+"2,742",Cultural Festivals,keyword
+"2,742",Entertainment,activity
+"2,742",Funding and Fundraising,keyword
+"2,742",Media,activity
+"2,742",National,region
+"2,742",Sector Development,keyword
+"2,742",Sports,keyword
+"2,742",Theatre Companies and Theatres,keyword
+"2,742",Youth,keyword
+"2,830",Arts,keyword
+"2,830",Aviation and Airport Operators,activity
+"2,830",Community Organisations and Charities,keyword
+"2,830",Media and Communications,keyword
+"2,830",National,region
+"2,830",Sport,keyword
+"2,830",Travel and Tourism,activity
+"2,834",Cancer,keyword
+"2,834",Canterbury,region
+"2,834",Children,keyword
+"2,834",Community Awards,keyword
+"2,834",Community Development,keyword
+"2,834",Community Organisations and Charities,keyword
+"2,834",Conservation,keyword
+"2,834",Environment,keyword
+"2,834",Heritage,keyword
+"2,834",Ports,activity
+"2,834",Post and Freight,activity
+"2,834",Rugby Union,keyword
+"2,834",Transport,activity
+"2,834",Water Sports,keyword
+"2,850",Accidents and Prevention,keyword
+"2,850",Arts,keyword
+"2,850",Auckland,region
+"2,850",Business and Enterprise,keyword
+"2,850",Conservation,keyword
+"2,850",Environment,keyword
+"2,850",Legal,activity
+"2,850",Maori Education,keyword
+"2,850",Recycling,keyword
+"2,850",Safety,keyword
+"2,850",Wellington,region
+"3,343",Arts,keyword
+"3,343",Auckland,region
+"3,343","Christchurch,Wellington",region
+"3,343",Legal,activity
+"3,343",Literature,keyword
+"3,343",Sector Development,keyword
+"3,460",Arts,keyword
+"3,460",Banking,activity
+"3,460",Business Services,activity
+"3,460",Children,keyword
+"3,460",Community Organisations and Charities,keyword
+"3,460",Dance,keyword
+"3,460",Literature,keyword
+"3,460",National,region
+"3,460",Post and Freight,activity
+"3,480",Conservation,keyword
+"3,480",Education,keyword
+"3,480",Electricity and Gas Industry,activity
+"3,480",Environment,keyword
+"3,480",Maori Education,keyword
+"3,480",National,region
+"3,480",Research,keyword
+"3,480",Rural,region
+"3,480",Rural Communities,keyword
+"3,480",Science,keyword
+"3,480",Tertiary Education,keyword
+"3,481",Accidents and Prevention,keyword
+"3,481",Conservation,keyword
+"3,481",Energy Efficiency,keyword
+"3,481",Environment,keyword
+"3,481",National,region
+"3,481",Oil and Petroleum,activity
+"3,481",Road Safety,keyword
+"3,481",Taranaki,region
+"3,484",Education,keyword
+"3,484",Environment,keyword
+"3,484",Health,keyword
+"3,484",Manufacturing,activity
+"3,484",Safety,keyword
+"3,484",Southland,region
+"3,487",Business and Enterprise,keyword
+"3,487",Chemicals and Plastics,activity
+"3,487",Community Development,keyword
+"3,487",Education,keyword
+"3,487",Environment,keyword
+"3,487",National,region
+"3,487",Oil and Petroleum,activity
+"3,487",Retail,activity
+"3,487",Surf-Lifesaving,keyword
+"3,487",Youth,keyword
+"3,489",Arts,keyword
+"3,489",Auckland,region
+"3,489",Business Incubation,keyword
+"3,489",Christchurch,region
+"3,489",Classical Musicians and Orchestras,keyword
+"3,489",Economic Development,keyword
+"3,489",Legal,activity
+"3,489",Personal Development,keyword
+"3,489",Poverty,keyword
+"3,489",Tertiary Education,keyword
+"3,489",Theatre Companies and Theatres,keyword
+"3,489",Voluntary Sector,keyword
+"3,489",Wellington,region
+"3,489",Youth,keyword
+"3,490",Asthma and Respiratory Disease,keyword
+"3,490",Clutha,region
+"3,490",Conservation,keyword
+"3,490",Dunedin,region
+"3,490",Electricity Retailing,activity
+"3,490",Energy Efficiency,keyword
+"3,490",Environment,keyword
+"3,490",Gas Retailing,activity
+"3,490",Hamilton,region
+"3,490",Hawkes Bay,region
+"3,490",Health,keyword
+"3,490",Healthy Homes,keyword
+"3,490",Horowhenua,region
+"3,490",Housing,keyword
+"3,490",Kapiti Coast,region
+"3,490",Manukau,region
+"3,490",National,region
+"3,490",Nelson,region
+"3,490",New Plymouth,region
+"3,490",Northland,region
+"3,490",South Canterbury,region
+"3,490",Stratford,region
+"3,490",Tasman,region
+"3,490",Taupo,region
+"3,535",Cancer,keyword
+"3,535",Clothing,activity
+"3,535",National,region
+"3,535",Overseas Aid and Development,keyword
+"3,535",Retail,activity
+"3,535",Women,keyword
+"3,539",Arthritis,keyword
+"3,539",Diseases and Conditions,keyword
+"3,539",HIV/AIDS,keyword
+"3,539",Media and Communications,keyword
+"3,539",National,region
+"3,539",Pharmaceutical,activity
+"3,539",Science,keyword
+"3,540",Agriculture,keyword
+"3,540",Arts,keyword
+"3,540",Automotive,activity
+"3,540",Career and Skills Development,keyword
+"3,540",Classical Musicians and Orchestras,keyword
+"3,540",Conservation,keyword
+"3,540",Education,keyword
+"3,540",Employment,keyword
+"3,540",Environment,keyword
+"3,540",National,region
+"3,540",Sector Development,keyword
+"3,541",Arts,keyword
+"3,541",Auckland,region
+"3,541",Business and Enterprise,keyword
+"3,541",Electricity Retailing,activity
+"3,541",Gas Retailing,activity
+"3,541",Sports,keyword
+"3,541",Telecommunications,activity
+"3,541",Wellington,region
+"3,541",Youth,keyword
+"3,542",Children,keyword
+"3,542",Food and Beverages,activity
+"3,542",Medical research,keyword
+"3,542",National,region
+"3,544",Arts,keyword
+"3,544",Ashburton,region
+"3,544",Buller,region
+"3,544",Central Otago,region
+"3,544",Clutha,region
+"3,544",Community Awards,keyword
+"3,544",Community Organisations and Charities,keyword
+"3,544","Dunedin,Eastern BOP",region
+"3,544",Education,keyword
+"3,544",Electricity Generation,activity
+"3,544",Electricity Retailing,activity
+"3,544",Far North,region
+"3,544",Grey,region
+"3,544",Invercargill.,region
+"3,544",Marlborough,region
+"3,544",Nelson,region
+"3,544",Oamaru,region
+"3,544",Palmerston North,region
+"3,544",Queenstown Lakes,region
+"3,544",Rotorua,region
+"3,544",Tararua,region
+"3,544",Taupo,region
+"3,544",Tauranga,region
+"3,544",Timaru,region
+"3,544",Waipa,region
+"3,545",Arts,keyword
+"3,545",Education,keyword
+"3,545",Electronics,activity
+"3,545",Life Skills,keyword
+"3,545",National,region
+"3,545",Youth,keyword
+"3,546",Community Development,keyword
+"3,546",Community Organisations and Charities,keyword
+"3,546",Energy Efficiency,keyword
+"3,546",Environment,keyword
+"3,546",Motorsports,keyword
+"3,546",North Island,region
+"3,546",Petroleum,activity
+"3,546",Retail,activity
+"3,546",Sports,keyword
+"3,547",Children and Babies,keyword
+"3,547",Community Development,keyword
+"3,547",Community Organisations and Charities,keyword
+"3,547",Disabled Sports,keyword
+"3,547",Golf,keyword
+"3,547",Motorsports,keyword
+"3,547",National,region
+"3,547",Oil and Petroleum,activity
+"3,547",Retail,activity
+"3,547",Rugby Union,keyword
+"3,547",Safety,keyword
+"3,547",Sports,keyword
+"3,548",Automotive,activity
+"3,548",Golf,keyword
+"3,548",Manufacturing,activity
+"3,548",Motorsports,keyword
+"3,548",National,region
+"3,550",Agriculture,keyword
+"3,550",Arts,keyword
+"3,550",Arts Festivals,keyword
+"3,550",Banking,activity
+"3,550",Business And Enterprise,keyword
+"3,550",Clinics and Hospices,keyword
+"3,550",Community Development,keyword
+"3,550",Education,keyword
+"3,550",Financial Services,activity
+"3,550",Health,keyword
+"3,550",Hospitals,keyword
+"3,550",National,region
+"3,550",Sports,keyword
+"3,551",Auckland,region
+"3,551",Community Organisations and Charities,keyword
+"3,551",Disaster Relief,keyword
+"3,551",Emergencies,keyword
+"3,551",Environment,keyword
+"3,551",Information Technology,activity
+"3,551",Internet,keyword
+"3,551",Telecommunications,activity
+"3,551",Wellington,region
+"3,552",Banking,activity
+"3,552",Financial Services,activity
+"3,553",Automotive,activity
+"3,553",Community Organisations and Charities,keyword
+"3,553",National,region
+"3,555",Animals,keyword
+"3,555",Christchurch,region
+"3,555",Community Development,keyword
+"3,555",Conservation,keyword
+"3,555",Disaster Relief,keyword
+"3,555",Dunedin,region
+"3,555",Education,keyword
+"3,555",Emergencies,keyword
+"3,555",Environment,keyword
+"3,555",Hastings,region
+"3,555",Hutt City,region
+"3,555",Invercargill,region
+"3,555",Manufacturing,activity
+"3,555",National,region
+"3,555",North Shore,region
+"3,555",Paper and Packaging,activity
+"3,555",Print,activity
+"3,555",Sports,keyword
+"3,555",Tauranga,region
+"3,557",Auckland,region
+"3,557",Children,keyword
+"3,557",Christchurch,region
+"3,557",Community Development,keyword
+"3,557",Community Organisations and Charities,keyword
+"3,557",Diversity And Culture,keyword
+"3,557",Hamilton,region
+"3,557",National,region
+"3,557",Property,activity
+"3,557",Wellington South,region
+"3,558",Arts,keyword
+"3,558",Auckland,region
+"3,558",Bay of Plenty,region
+"3,558",Business and Enterprise,keyword
+"3,558",Clinics and Hospices,keyword
+"3,558",Community Organisations and Charities,keyword
+"3,558",Conservation,keyword
+"3,558",Cultural Festivals,keyword
+"3,558",Electricity Generation,activity
+"3,558",Electricity Retailing,activity
+"3,558",Environment,keyword
+"3,558",Hospitals,keyword
+"3,558",Personal Development,keyword
+"3,558",Rowing,keyword
+"3,558",Sailing,keyword
+"3,558",Taupo,region
+"3,558",Waikato,region
+"3,558",Water Sports,keyword
+"3,558",Youth,keyword
+"3,559",Agriculture,keyword
+"3,559",Arts,keyword
+"3,559",Banking,activity
+"3,559",Business and Enterprise,keyword
+"3,559",Children and Babies,keyword
+"3,559",Conservation,keyword
+"3,559",Diseases and Conditions,keyword
+"3,559",Education,keyword
+"3,559",Environment,keyword
+"3,559",Financial Services,activity
+"3,559",Literature,keyword
+"3,559",National,region
+"3,559",Recreation and Leisure,keyword
+"3,559",Theatre Companies and Theatres,keyword
+"3,565",Accidents and Prevention,keyword
+"3,565",Community Organisations and Charities,keyword
+"3,565",Cricket,keyword
+"3,565",Crime And Justice,keyword
+"3,565",Emergency Services,keyword
+"3,565",Insurance,activity
+"3,565",National,region
+"3,565",Road Safety,keyword
+"3,565",Safety,keyword
+"3,565",Trainees and Apprenticeships,keyword
+"3,565",Victims,keyword
+"3,567",areas of operation,region
+"3,567",Children and Babies,keyword
+"3,567",Community Organisations and Charities,keyword
+"3,567",Education,keyword
+"3,567",Families,keyword
+"3,567",Health,keyword
+"3,567",Literacy,keyword
+"3,567",National,region
+"3,567",Primary education,keyword
+"3,567",Retail,activity
+"3,567",Secondary education,keyword
+"3,568",Arts,keyword
+"3,568",Business and Enterprise,keyword
+"3,568",Cancer,keyword
+"3,568",Children and Babies,keyword
+"3,568",Community Development,keyword
+"3,568",Community Organisations and Charities,keyword
+"3,568",Cricket,keyword
+"3,568",Cultural Festivals,keyword
+"3,568",Fashion,keyword
+"3,568",Golf,keyword
+"3,568",Health,keyword
+"3,568",Heritage,keyword
+"3,568",Historic Places,keyword
+"3,568",Media and Communications,keyword
+"3,568",Museums,keyword
+"3,568",National,region
+"3,568",Rugby Union,keyword
+"3,568",Safety,keyword
+"3,568",Sports,keyword
+"3,568",Telecommunications,activity
+"3,568",Theatre Companies and Theatres,keyword
+"3,568",Youth,keyword
+"3,569",Art Centres and Galleries,keyword
+"3,569",Arts,keyword
+"3,569",Arts Festivals,keyword
+"3,569",Classical Musicians and Orchestras,keyword
+"3,569",Community Organisations and Charities,keyword
+"3,569",Dance,keyword
+"3,569",Environment,keyword
+"3,569",Jazz,keyword
+"3,569",Literature,keyword
+"3,569",National,region
+"3,569",Opera,keyword
+"3,569",Recreation and Leisure,keyword
+"3,569",Sports,keyword
+"3,569",Theatre Companies and Theatres,keyword
+"3,569",Winemaking,activity
+"3,571",Children,keyword
+"3,571",Clinics and Hospices,keyword
+"3,571",Community Organisations and Charities,keyword
+"3,571",Emergency Services,keyword
+"3,571",Entertainment,activity
+"3,571",Environment,keyword
+"3,571",Health,keyword
+"3,571",Hospitals,keyword
+"3,571",Media,activity
+"3,571",National,region
+"3,571",Personal Development,keyword
+"3,571",Youth,keyword
+"3,572",Animals,keyword
+"3,572",Auckland,region
+"3,572",Business and Enterprise,keyword
+"3,572",Christchurch,region
+"3,572",Endangered Species,keyword
+"3,572",Food and Beverages,activity
+"3,572",National,region
+"3,572",North Shore,region
+"3,572",Personal Development,keyword
+"3,572",Sports,keyword
+"3,572",Swimming,keyword
+"3,572",Tennis,keyword
+"3,572",Youth,keyword
+"3,572",Zoos and Wildlife Parks,keyword
+"3,573",Arts,keyword
+"3,573",Auckland,region
+"3,573",Christchurch,region
+"3,573",Financial Services,activity
+"3,573",Hamilton,region
+"3,573",Health,keyword
+"3,573",National,region
+"3,573",Palmerston North,region
+"3,573",Sports,keyword
+"3,573",Theatre Companies and Theatres,keyword
+"3,573",Wellbeing,keyword
+"3,573",Wellington,region
+"3,574",Electronics,activity
+"3,574",Martial Arts,keyword
+"3,574",Media and Communications,keyword
+"3,574",National,region
+"3,574",Photography,keyword
+"3,574",Sports,keyword
+"3,575",Art Centres and Galleries,keyword
+"3,575",Arts,keyword
+"3,575",Business And Enterprise,keyword
+"3,575",Community Development,keyword
+"3,575",Community Organisations and Charities,keyword
+"3,575",Conservation,keyword
+"3,575",Education,keyword
+"3,575",Environment,keyword
+"3,575",Leadership,keyword
+"3,575",Legal,activity
+"3,575",National,region
+"3,575",Scholarships,keyword
+"3,575",Technology,keyword
+"3,575",Tertiary Education,keyword
+"3,576",Arts,keyword
+"3,576",Auckland,region
+"3,576",Business Services,activity
+"3,576",Community Development,keyword
+"3,576",Information Technology,activity
+"3,576",Wellington,region
+"3,578",Arts,keyword
+"3,578",Business Services,activity
+"3,578",Clinics and Hospices,keyword
+"3,578",Diversity and Culture,keyword
+"3,578",Electronics,activity
+"3,578",Hospitals,keyword
+"3,578",International,region
+"3,578",Media and Communications,keyword
+"3,578",National,region
+"3,578",Sports,keyword
+"3,578",Youth,keyword
+"3,580",Auckland,region
+"3,580",Business and Enterprise,keyword
+"3,580",Community Development,keyword
+"3,580",Environment,keyword
+"3,580",Ports,activity
+"3,580",Youth,keyword
+"3,581",Accountancy,activity
+"3,581",Auckland,region
+"3,581",Bay of Islands,region
+"3,581",Business and Enterprise,keyword
+"3,581",Business Incubation,keyword
+"3,581",Business Services,activity
+"3,581",Christchurch,region
+"3,581",Education,keyword
+"3,581",Entrepreneurs,keyword
+"3,581",Financial Services,activity
+"3,581",Gisborne,region
+"3,581",Hamilton,region
+"3,581",Hockey,keyword
+"3,581",Invercargill,region
+"3,581",Napier,region
+"3,581",New Plymouth,region
+"3,581",Palmerston North,region
+"3,581",Rotorua,region
+"3,581",Secondary Education,keyword
+"3,581",Sports,keyword
+"3,581",Tauranga,region
+"3,581",Tertiary Education,keyword
+"3,581",Wellington,region
+"3,581",Youth,keyword
+"3,582",Arts Festivals,keyword
+"3,582",Business and Enterprise,keyword
+"3,582",Classical Musicians and Orchestras,keyword
+"3,582",Community Organisations and Charities,keyword
+"3,582",Film,keyword
+"3,582",Legal,activity
+"3,582",National,region
+"3,583",Auckland,region
+"3,583",Bay of Plenty,region
+"3,583",Children and Babies,keyword
+"3,583",Community Development,keyword
+"3,583",Electricity Retailing,activity
+"3,583",Families,keyword
+"3,583",Heritage,keyword
+"3,583",Northland,region
+"3,583",Taranaki,region
+"3,583",Thames Coromandel,region
+"3,583",Waikato,region
+"3,584",Arts,keyword
+"3,584",Community Organisations and Charities,keyword
+"3,584",Education,keyword
+"3,584",Financial Services,activity
+"3,584",Golf,keyword
+"3,584",National,region
+"3,584",Sports,keyword
+"3,584",Triathlon,keyword
+"3,585",Children and Babies,keyword
+"3,585",Disability,keyword
+"3,585",Early Childhood Education,keyword
+"3,585",Education,keyword
+"3,585",Environment,keyword
+"3,585",ICT,keyword
+"3,585",Information Technology,activity
+"3,585",National,region
+"3,585",Recycling,keyword
+"3,585",Science,keyword
+"3,585",Technology,keyword
+"3,585",Women,keyword
+"3,585",Youth,keyword
+"3,594",Animals,keyword
+"3,594",Endangered Species,keyword
+"3,594",Health,keyword
+"3,594",National,region
+"3,594",Neurological Disorders,keyword
+"3,594",Retail,activity
+"3,595",Arts,keyword
+"3,595",Business and Enterprise,keyword
+"3,595",Classical Musicians and Orchestras,keyword
+"3,595",Heritage,keyword
+"3,595",Multisport Events,keyword
+"3,595",Nelson,region
+"3,595",Outdoor Concerts,keyword
+"3,595",Ports,activity
+"3,595",Sector Development,keyword
+"3,595",Sports,keyword
+"3,595",Tasman,region
+"3,596",Auckland,region
+"3,596",Christchurch,region
+"3,596",Community Organisations and Charities,keyword
+"3,596",Household and Personal Care,activity
+"3,596",National,region
+"3,599",Animals,keyword
+"3,599",Business to Business,activity
+"3,599",Career and skills development,keyword
+"3,599",Education,keyword
+"3,599",Endangered Species,keyword
+"3,599",National,region
+"3,599",Retail,activity
+"3,601",Arts,keyword
+"3,601",Arts Festivals,keyword
+"3,601",Auckland,region
+"3,601",Business And Enterprise,keyword
+"3,601",Christchurch,region
+"3,601",Diversity,keyword
+"3,601",Education,keyword
+"3,601",Fashion,keyword
+"3,601",Financial Services,activity
+"3,601",International,region
+"3,601",National,region
+"3,601",Sport,keyword
+"3,601",Travel and Tourism,activity
+"3,601",Wellington,region
+"3,601",Youth,keyword
+"5,001",Automotive,activity
+"5,001",Community Development,keyword
+"5,001",Community Organisations and Charities,keyword
+"5,001",Environment,keyword
+"5,001",National,region
+"5,007",Community Organisations and Charities,keyword
+"5,007",Education,keyword
+"5,007",Environment,keyword
+"5,007",Heritage,keyword
+"5,007",Historic Places,keyword
+"5,007",Ports,activity
+"5,007",Sailing,keyword
+"5,007",Sport,keyword
+"5,007",Water Sports,keyword
+"5,007",West Harbour (Dunedin),region
+"5,009",Arts,keyword
+"5,009",Auckland,region
+"5,009",Banking,activity
+"5,009",Business and Enterprise,keyword
+"5,009",Classical Musicians and Orchestras,keyword
+"5,009",Cultural Festivals,keyword
+"5,009",Diversity and Culture,keyword
+"5,009",Education,keyword
+"5,009",Financial Services,activity
+"5,009",Golf,keyword
+"5,009",National,region
+"5,009",Running,keyword
+"5,009",Sailing,keyword
+"5,009",Sport,keyword
+"5,010",Business and Enterprise,keyword
+"5,010",Business Incubation,keyword
+"5,010",Children,keyword
+"5,010",Education,keyword
+"5,010",Information Technology,activity
+"5,010",National,region
+"5,011",Arts,keyword
+"5,011",Business and Enterprise,keyword
+"5,011",Community Development,keyword
+"5,011",Diversity and Culture,keyword
+"5,011",Economic Development,keyword
+"5,011",Education,keyword
+"5,011",Manawatu,region
+"5,011",Ports,activity
+"5,011",Property,activity
+"5,011",Recreation and Leisure,keyword
+"5,011",Safety,keyword
+"5,011",Wairarapa,region
+"5,011",Wanganui,region
+"5,011",Wellington,region
+"5,012",Arts,keyword
+"5,012",Children and Babies,keyword
+"5,012",Community Development,keyword
+"5,012",Community Organisations and Charities,keyword
+"5,012",Disability,keyword
+"5,012",Education,keyword
+"5,012",Elderly,keyword
+"5,012",Environment,keyword
+"5,012",Food and Beverages,activity
+"5,012",Health,keyword
+"5,012",Music,keyword
+"5,012",South Island,region
+"5,012",Sport,keyword
+"5,016",Area of operation,region
+"5,016",Community Development,keyword
+"5,016",Community Organisations and Charities,keyword
+"5,016",Food and Beverages,activity
+"5,016",Manufacturing,activity
+"5,016",National,region
+"5,017",55 offices.,region
+"5,017",Blindness and Visual Impairment,keyword
+"5,017",Community Development,keyword
+"5,017",Community Organisations and Charities,keyword
+"5,017",Disability,keyword
+"5,017",Education,keyword
+"5,017",Funding and Fundraising,keyword
+"5,017",National,region
+"5,017",Property,activity
+"5,017",Sector Development,keyword
+"5,017",Sports,keyword
+"5,019",Arts,keyword
+"5,019",Automotive,activity
+"5,019",Education,keyword
+"5,019",Environment,keyword
+"5,019",Families,keyword
+"5,019",National,region
+"5,019",Road Safety,keyword
+"5,019",Safety,keyword
+"5,019",Sport,keyword
+"5,025",Children,keyword
+"5,025",Entertainment,activity
+"5,025",Equipment Hire,activity
+"5,025",National,region
+"5,025",Sport,keyword
+"5,026",Children and Babies,keyword
+"5,026",National,region
+"5,026",Tourism,keyword
+"5,026",Travel and Tourism,activity
+"5,027",Automotive,activity
+"5,027",Cancer,keyword
+"5,027",Community Development,keyword
+"5,027",Diseases and Conditions,keyword
+"5,027",Energy Efficiency,keyword
+"5,027",Environment,keyword
+"5,027",Golf,keyword
+"5,027",Health,keyword
+"5,027",Motorsports,keyword
+"5,027",National,region
+"5,027",Road Safety,keyword
+"5,027",Safety,keyword
+"5,027",Sport,keyword
+"5,027",Technology,keyword
+"5,027",Youth,keyword
+"5,028",Art Centres and Galleries,keyword
+"5,028",Arts,keyword
+"5,028",Arts Festivals,keyword
+"5,028",Auckland,region
+"5,028",Classical Musicians and Orchestras,keyword
+"5,028",Food and Beverages,activity
+"5,028",Hawkes Bay,region
+"5,028",Marlborough,region
+"5,028",Music,keyword
+"5,028",National,region
+"5,028",Sport,keyword
+"5,028",Winemaking,activity
+"5,032",Information Technology,activity
+"5,032",Sport,keyword
+"5,032",Triathlon,keyword
+"5,034",Auckland,region
+"5,034",Central Otago,region
+"5,034",Children,keyword
+"5,034",Christchurch,region
+"5,034",Far North District,region
+"5,034",Manuwatu,region
+"5,034",Marlborough,region
+"5,034",National,region
+"5,034",North Otago,region
+"5,034",Property,activity
+"5,034",Southland,region
+"5,034",Sport,keyword
+"5,034",Thames/ Coromandel,region
+"5,034",Waikato,region
+"5,034",Wanganui,region
+"5,034",Wellington,region
+"5,034",West Coast,region
+"5,034",Western Bay of Plenty,region
+"5,035",Auckland,region
+"5,035",Cancer,keyword
+"5,035",Carterton,region
+"5,035",Children and Babies,keyword
+"5,035",Christchurch,region
+"5,035",Community Development,keyword
+"5,035",Community Organisations and Charities,keyword
+"5,035",Health,keyword
+"5,035",Hutt City,region
+"5,035",Lower Hutt,region
+"5,035",Napier,region
+"5,035",National,region
+"5,035",Palmerston North,region
+"5,035",Porirua,region
+"5,035",Property,activity
+"5,035",Rotorua,region
+"5,035",Tauranga,region
+"5,035",Thames/ Coromandle,region
+"5,035",Timaru,region
+"5,035",Waikato,region
+"5,035",Wanganui,region
+"5,035",Wellington,region
+"5,035",Western Bay of Plenty,region
+"5,035",Whangarei,region
+"5,036",Business and Enterprise,keyword
+"5,036",Disability,keyword
+"5,036",Disabled Sports,keyword
+"5,036",Economic Development,keyword
+"5,036",Financial Services,activity
+"5,036",International,region
+"5,036",National,region
+"5,036",Rugby Union,keyword
+"5,036",Sector Development,keyword
+"5,036",Sport,keyword
+"5,038",Arts,keyword
+"5,038",Auckland,region
+"5,038",Business and Enterprise,keyword
+"5,038",Career Development,keyword
+"5,038",Employment,keyword
+"5,038",Golf,keyword
+"5,038",Horse Racing,keyword
+"5,038",Multisport Events,keyword
+"5,038",National,region
+"5,038",Scholarships,keyword
+"5,038",Sport,keyword
+"5,038",Technology,keyword
+"5,038",Triathlon,keyword
+"5,038",Wellington,region
+"5,039",Building and Construction,activity
+"5,039",Christchurch,region
+"5,039",Dunedin,region
+"5,039",Fishing,keyword
+"5,039",Gisborne,region
+"5,039",Golf,keyword
+"5,039",Hamilton,region
+"5,039",Hastings,region
+"5,039",Horowhenua,region
+"5,039",Invercargill.,region
+"5,039",Kapiti Coast,region
+"5,039",Literacy,keyword
+"5,039",Manawatu,region
+"5,039",Marlborough,region
+"5,039",Masterton,region
+"5,039",Napier,region
+"5,039",National,region
+"5,039",Nelson,region
+"5,039",New Plymouth,region
+"5,039",North Shore,region
+"5,039",Palmerston North,region
+"5,039",Queenstown Lakes,region
+"5,039",Retail,activity
+"5,039",Rodney,region
+"5,039",Rotorua,region
+"5,039",Rugby,keyword
+"5,039",South Wairarapa,region
+"5,039",Taupo,region
+"5,039",Tauranga,region
+"5,039",Thames Coromandel,region
+"5,039",Waikato,region
+"5,039",Wanganui,region
+"5,039",Wellington,region
+"5,039",Westland,region
+"5,039",Whangarei,region
+"5,039",Youth,keyword
+"5,040",Auckland,region
+"5,040",Community Development,keyword
+"5,040",Community Organisations and Charities,keyword
+"5,040",Conservation,keyword
+"5,040",Environment,keyword
+"5,040",Families,keyword
+"5,040",Funding and Fundraising,keyword
+"5,040",Household and Personal Care,activity
+"32,784",Christchurch and Central Canterbury (Sel,region
+"32,784",Energy,activity
+"32,784",Energy Efficiency,keyword
+"32,784",Environment,keyword
+"32,785",Business and Enterprise,keyword
+"32,785",Electricity Retailing,activity
+"32,785",Horowhenua,region
+"32,785",Kapiti Coast,region
+"32,819",Community Organisations and Charities,keyword
+"32,819",Food and Beverages,activity
+"32,819",Manufacturing,activity
+"32,819",National,region
+"32,819",Sport,keyword
+"32,821",Arts,keyword
+"32,821",Community Organisations and Charities,keyword
+"32,821",Media,activity
+"32,821",Sport,keyword
+"32,821",The Dominion Post's distribution area.,region
+"32,828",Arts,keyword
+"32,828",Bowls,keyword
+"32,828",Choirs,keyword
+"32,828",Dance,keyword
+"32,828",Financial Services,activity
+"32,828",Heritage,keyword
+"32,828",Horticulture,keyword
+"32,828",Museums,keyword
+"32,828",Music,keyword
+"32,828",National,region
+"32,828",Sport,keyword
+"32,839",National,region
+"32,839",Regional,region
+"32,841",Children and Babies,keyword
+"32,841",Community Organisations and Charities,keyword
+"32,841",Cultural Festivals,keyword
+"32,841",Food and Beverages,activity
+"32,841",Manufacturing,activity
+"32,841",National,region
+"32,841",Pacific Island,keyword
+"32,841",Sport,keyword
+"32,844",Community Development,keyword
+"32,844",Fast-Moving Consumer Goods (FMCGs),activity
+"32,844",Food and Beverages,activity
+"32,844",Housing and homelessness,keyword
+"32,844",Manufacturing,activity
+"32,844",National,region
+"32,844",Poverty,keyword
+"32,845",Business and Enterprise,keyword
+"32,845",Electronics,activity
+"32,845",Emergency Services,keyword
+"32,845",Environment,keyword
+"32,845",Information Technology,activity
+"32,845",Leadership,keyword
+"32,845",National,region
+"32,845",Sailing,keyword
+"32,845",Sport,keyword
+"32,845",Tennis,keyword
+"32,845",Youth,keyword
+"32,852",Building and Construction,activity
+"32,852",Community Development,keyword
+"32,852",Community Organisations and Charities,keyword
+"32,852",Environment,keyword
+"32,852",Families,keyword
+"32,852",National and areas of operation.,region
+"32,852",Retail,activity
+"32,852",Sustainability,keyword
+"32,854",Children and Babies,keyword
+"32,854",Community Development,keyword
+"32,854",Community Organisations and Charities,keyword
+"32,854",Families,keyword
+"32,854",Fast-Moving Consumer Goods (FMCGs),activity
+"32,854",Food and Beverages,activity
+"32,854",Health,keyword
+"32,854",National,region
+"32,854",Nutrition,keyword
+"32,859",Arts,keyword
+"32,859",Business and Enterprise,keyword
+"32,859",Innovation,keyword
+"32,859",Media,activity
+"32,859",National,region
+"32,859",Opera,keyword
+"32,862",Auckland,region
+"32,862",Children and Babies,keyword
+"32,862",Diversity and Culture,keyword
+"32,862",Health,keyword
+"32,862",Northland,region
+"32,862",Property,activity
+"32,877",Auckland,region
+"32,877",Children and Babies,keyword
+"32,877",Education,keyword
+"32,877",Financial education,keyword
+"32,877",Financial Services,activity
+"32,877",Youth,keyword
+"32,878",Career and Skills Development,keyword
+"32,878",Children and Babies,keyword
+"32,878",Community Development,keyword
+"32,878",Community Organisations and Charities,keyword
+"32,878",National,region
+"32,878",Retail,activity
+"32,878",Travel and Tourism,activity
+"32,878",Youth,keyword
+"32,882",Adelaide,region
+"32,882",Arts,keyword
+"32,882",Auckland,region
+"32,882",Darwin,region
+"32,882",Diversity and Culture,keyword
+"32,882",Education,keyword
+"32,882",Entertainment,activity
+"32,882",Hamilton,region
+"32,882",Health,keyword
+"32,882",Queenstown,region
+"32,882",Tourism,keyword
+"32,883",Business Services,activity
+"32,883",Community Organisations and Charities,keyword
+"32,883",Families,keyword
+"32,883",Food and Beverages,activity
+"32,883",Household and Personal Care,activity
+"32,883",National internally,region
+"32,888",Architecture and Planning,activity
+"32,888",Auckland,region
+"32,888",Business and Enterprise,keyword
+"32,888",Christchurch,region
+"32,888",Community Development,keyword
+"32,888",Engineering,activity
+"32,888",Environment,keyword
+"32,888",Hamilton,region
+"32,888",International,region
+"32,888",National,region
+"32,888",Sector Development,keyword
+"32,888",Sustainability,keyword
+"32,888",Wellington,region
+"32,889",Agriculture,keyword
+"32,889",Arts,keyword
+"32,889",Banking,activity
+"32,889",Business and Enterprise,keyword
+"32,889",Community Organisations and Charities,keyword
+"32,889",Concert Venues,keyword
+"32,889",Education,keyword
+"32,889",Emergency Services,keyword
+"32,889",Financial Services,activity
+"32,889",Health,keyword
+"32,889",National,region
+"32,889",Recreation and Leisure,keyword
+"32,889",Sport,keyword
+"32,889",Women,keyword
+"32,889",Youth,keyword
+"32,901",Children,keyword
+"32,901",Community Organisations and Charities,keyword
+"32,901",Families,keyword
+"32,901",Fast-Moving Consumer Goods (FMCGs),activity
+"32,901",National,region
+"32,901",Retail,activity
+"32,903",Accidents and Prevention,keyword
+"32,903",Children and Babies,keyword
+"32,903",Community Organisations and Charities,keyword
+"32,903",Dietary Supplements,activity
+"32,903",Health,activity
+"32,903",Health Foods and Beverages,activity
+"32,903",National,region
+"32,903",Nutrition,keyword
+"32,903",Organics,keyword
+"32,903",Sector Development,keyword
+"32,903",Sport,keyword
+"32,903",Wellbeing,keyword
+"32,903",Women,keyword
+"32,906",Community Development,keyword
+"32,906",Community Organisations and Charities,keyword
+"32,906",Education,keyword
+"32,906",Information Technology,activity
+"32,906",National,region
+"32,906",Technology,keyword
+"32,917",Agriculture and Forestry,keyword
+"32,917",Bedding,activity
+"32,917",Clothing,activity
+"32,917",National,region
+"32,917",Outdoor Recreation,keyword
+"32,932",Children and Babies,keyword
+"32,932",Education,keyword
+"32,932",Food and Beverages,activity
+"32,932",Health,keyword
+"32,932",National,region
+"32,932",Netball,keyword
+"32,932",Rugby Union,keyword
+"32,932",Safety,keyword
+"32,932",Soccer,keyword
+"32,932",Sport,keyword
+"32,938",Accountancy,activity
+"32,938",Arts,keyword
+"32,938",Auckland,region
+"32,938",Business and Enterprise,keyword
+"32,938",Business Services,activity
+"32,938",Christchurch,region
+"32,938",Education,keyword
+"32,938",Entrepreneurs,keyword
+"32,938",Financial Services,activity
+"32,938",Wellington,region
+"32,940",Automotive,activity
+"32,940",Disabled Sports,keyword
+"32,940",Emergency Services,keyword
+"32,940",Environment,keyword
+"32,940",Multisport Events,keyword
+"32,940",National,region
+"32,940",Sport,keyword
+"32,942",Arts,keyword
+"32,942",Ashburton,region
+"32,942",Auckland,region
+"32,942",Blenheim,region
+"32,942",Central Otago,region
+"32,942",Christchurch,region
+"32,942",Community Organisations and Charities,keyword
+"32,942",Dunedin,region
+"32,942",Families,keyword
+"32,942",Gisborne,region
+"32,942",Greymouth,region
+"32,942",Hawera,region
+"32,942",Hawkes Bay,region
+"32,942",Kapiti,region
+"32,942",Manawatu,region
+"32,942",Masterton,region
+"32,942",Media,activity
+"32,942",Nelson,region
+"32,942",Northland,region
+"32,942",Oamaru,region
+"32,942",Rotorua,region
+"32,942",Southland,region
+"32,942",Sport,keyword
+"32,942",Taranaki,region
+"32,942",Taumarunui,region
+"32,942",Taupo,region
+"32,942",Tauranga,region
+"32,942",Timaru,region
+"32,942",Tokoroa,region
+"32,942",Waikato,region
+"32,942",Wanganui,region
+"32,942",Wellington,region
+"32,943",Arts,keyword
+"32,943",Electronics,activity
+"32,943",Environment,keyword
+"32,943",Information Technology,activity
+"32,943",Motorsports,keyword
+"32,943",National,region
+"32,943",Rugby,keyword
+"32,943",Sport,keyword
+"32,944",Arts,keyword
+"32,944",Automotive,activity
+"32,944",Extreme Sports,keyword
+"32,944",Fashion,keyword
+"32,944",Motorsports,keyword
+"32,944",National,region
+"32,944",Skiing and Snowboarding,keyword
+"32,944",Sport,keyword
+"32,959",Auckland,region
+"32,959",Funding and Fundraising,keyword
+"32,959",Manufacturing,activity
+"32,959",National,region
+"32,959",Sector Development,keyword
+"32,963",Children,keyword
+"32,963",Community Organisations and Charities,keyword
+"32,963",Elderly,keyword
+"32,963",Food and Beverages,activity
+"32,963",Health,keyword
+"32,963",National,region
+"32,966",Post and Freight,activity
+"32,966",Scholarships,keyword
+"32,967",Arts,keyword
+"32,967",Business and Enterprise,keyword
+"32,967",Business Incubation,keyword
+"32,967",Entrepreneurs,keyword
+"32,967",Film,keyword
+"32,967",Information Technology,activity
+"32,967",Innovation,keyword
+"32,967",National,region
+"32,967",Sport,keyword
+"32,968",Music,keyword
+"32,968",National,region
+"32,968",Telecommunications,activity
+"32,970",Asthma and Respiratory Disease,keyword
+"32,970",Building and Construction,activity
+"32,970",Energy,activity
+"32,970",Energy Efficiency,keyword
+"32,970",Environment,keyword
+"32,970",Housing and homelessness,keyword
+"32,970",National,region
+"32,971",Accidents and Prevention,keyword
+"32,971",Arts,keyword
+"32,971",Buildings and Architecture,keyword
+"32,971",Community Development,keyword
+"32,971",Community Organisations and Charities,keyword
+"32,971",Manufacturing,activity
+"32,971",National,region
+"32,971",Retail,activity
+"32,971",Sector Development,keyword
+"32,977",Auckland,region
+"32,977",Business Services,activity
+"32,977",Community Organisations and Charities,keyword
+"32,977",Post and Freight,activity
+"32,984",Clothing,activity
+"32,984",Families,keyword
+"32,984",Multisport Events,keyword
+"32,984",National,region
+"32,984",Sport,keyword
+"32,985",Clothing,activity
+"32,985",Community Organisations and Charities,keyword
+"32,985",Fast-Moving Consumer Goods (FMCGs),activity
+"32,985",International,region
+"32,985",Manufacturing,activity
+"32,985",National,region
+"32,986",Agriculture,activity
+"32,986",Agriculture and Forestry,keyword
+"32,986",Community Development,keyword
+"32,986",Conservation,keyword
+"32,986",Disability,keyword
+"32,986",Environment,keyword
+"32,986",Financial Services,activity
+"32,986",National and area of operation,region
+"32,986",Property,activity
+"32,986",Rural Communities,keyword
+"32,986",Sport,keyword
+"32,987",Arts,keyword
+"32,987",Canterbury,region
+"32,987",Christchurch,region
+"32,987",Education,keyword
+"32,987",Media,activity
+"32,987",Nelson,region
+"32,987",Sport,keyword
+"32,987",West Coast,region
+"33,018",Entertainment,activity
+"33,018",Media,activity
+"33,018",Music,keyword
+"33,018",National,region
+"33,018",Sports,keyword
+"33,018",Youth,keyword
+"33,019",Auckland,region
+"33,019",Christchurch,region
+"33,019",Community Organisations and Charities,keyword
+"33,019",Dunedin,region
+"33,019",Food and Beverages,activity
+"33,019",Hamilton,region
+"33,019",Hastings,region
+"33,019",Invercargill,region
+"33,019",Marlborough,region
+"33,019",Napier,region
+"33,019",National,region
+"33,019",Nelson,region
+"33,019",New Plymouth,region
+"33,019",Palmerston North,region
+"33,019",Rotorua,region
+"33,019",Taupo,region
+"33,019",Tauranga,region
+"33,019",Te Awamutu,region
+"33,019",Waikato,region
+"33,019",Wellington,region
+"33,019",Whangarei and many others.,region
+"33,022",Auckland,region
+"33,022",Business and Enterprise,keyword
+"33,022",International,region
+"33,022",Property,activity
+"33,022",Sustainability,keyword
+"33,022",Wellington,region
+"33,023",Agriculture,keyword
+"33,023",Clothing,activity
+"33,023",Extreme Sports,keyword
+"33,023",Horticulture,keyword
+"33,023",National,region
+"33,023",Outdoor Recreation,keyword
+"33,023",Retail,activity
+"33,023",Sports,keyword
+"33,024",Arts,keyword
+"33,024",Auckland,region
+"33,024",Children,keyword
+"33,024",Christchurch,region
+"33,024",Environment,keyword
+"33,024",Film,keyword
+"33,024",Heritage,keyword
+"33,024",Hospitality,keyword
+"33,024",Hotels,keyword
+"33,024",Literature,keyword
+"33,024",Special needs,keyword
+"33,024",Wellington,region
+"33,024",Women,keyword
+"33,025",Arts,keyword
+"33,025",Automotive,activity
+"33,025",Cancer,keyword
+"33,025",National,region
+"33,027",Community Development,keyword
+"33,027",Health,keyword
+"33,027",National,region
+"33,027",Taranaki,region
+"33,032",Advertising and Marketing,activity
+"33,032",Arts,keyword
+"33,032",Community Organisations and Charities,keyword
+"33,032",Health,keyword
+"33,032",Media,activity
+"33,032",National,region
+"33,033",Arts,keyword
+"33,033",Community Development,keyword
+"33,033",International,region
+"33,033",Music,keyword
+"33,033",National,region
+"33,033",Recreation and Leisure,keyword
+"33,033",Recruitment,keyword
+"33,039",Arts,keyword
+"33,039",Community Organisations and Charities,keyword
+"33,039",Gaming,activity
+"33,039",National,region
+"33,039",Sports,keyword
+"33,039",Travel and Tourism,activity
+"33,055",Agriculture and Forestry,keyword
+"33,055",Community Development,keyword
+"33,055",Environment,keyword
+"33,055",Financial Services,activity
+"33,055",Health,keyword
+"33,055",National,region
+"33,055",Recruitment,keyword
+"33,083",Auckland,region
+"33,083",ICT,keyword
+"33,083",Information Technology,activity
+"33,083",National,region
+"33,083",Wellington,region
