@@ -3,5 +3,3 @@ An extract from the WCC rating database displaying property attributes for ratea
 The Inner and Outer Res Capacity are an indication of vacant/build-able residentially zoned land in the City.
 
 The data are in shapefile format, zipped up.
-
-# Download the files here
