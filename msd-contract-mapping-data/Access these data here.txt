@@ -2,6 +2,4 @@ CSV: https://s3-ap-southeast-2.amazonaws.com/govhacknz/data/ministry-of-social-d
 
 Zipped PostgreSQL dump: https://s3-ap-southeast-2.amazonaws.com/govhacknz/data/ministry-of-social-development-msd/contractmapping_data.zip
 
-Background info: https://github.com/GovHackNZ/govhacknz-data
-
-Instructions below!
+Instructions here: https://github.com/GovHackNZ/govhacknz-data/blob/master/msd-contract-mapping-data/README.md
